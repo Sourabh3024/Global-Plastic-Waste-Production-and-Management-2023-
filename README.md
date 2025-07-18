@@ -92,7 +92,7 @@
 
 ## DASHBOARD IMAGE:
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/Global-Plastic-Waste-Production-and-Management-2023-/blob/8cf44d2170bac2dbf4fafac943cfc519f9d92613/Plastic%20Waste%20Dashboard.JPG" width="1500">
 
 
 
